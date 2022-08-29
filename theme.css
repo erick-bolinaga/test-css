@@ -1,0 +1,28 @@
+--base-font-size: 14px;
+--page-wrapper-width: 1024px;
+--page-width: 80%;
+--rounded-corners: 3px;
+--space-base: 8px;
+--main-areas-space: 25px;
+--paragraph-font-size: 14px;
+
+--primary-color-hue: 233;
+--primary-color-saturation: 42%;
+--primary-color-lightness: 47%;
+
+--logo-height: 42px;
+--page-header-bg-color: hsla(233, 42%, 87%);
+--logout-icon-display: none;
+
+--home-icon-display: none;
+--home-text-display: block;
+--breadcrumbs-text-size: 14px;
+--menu-height: 32px;
+--menu-text-size: 12px;
+--menu-icons-display: none;
+--menu-divider-height: 2px;
+--menu-dropdown-item-height: 32px;
+--menu-dropdown-item-text-size: 12px;
+
+--dashboard-padding: 20px;
+--dashboard-tab-roundness: 3px;
